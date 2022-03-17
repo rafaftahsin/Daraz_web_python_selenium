@@ -1,6 +1,6 @@
 allure-pytest==2.9.43
 allure-python-commons==2.9.43
-apturl==0.5.2
+# apturl==0.5.2
 attrs==21.4.0
 bcrypt==3.1.7
 blinker==1.4
